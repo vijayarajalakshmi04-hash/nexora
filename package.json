@@ -1,0 +1,19 @@
+{
+  "name": "nexora",
+  "version": "1.0.0",
+  "description": "Full-stack e-commerce demo (React + TypeScript + Tailwind · Node/Express · MongoDB/Mongoose · JWT + bcrypt). **All products, prices, ratings and customers are DEMO DATA. Payment is Cash on Delivery only; no real or simulated online payments.**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}

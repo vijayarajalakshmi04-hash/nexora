@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+*.log
+playwright-report/
+test-results/
+backend/.demo-credentials.txt
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
